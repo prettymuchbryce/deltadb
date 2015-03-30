@@ -20,7 +20,7 @@ This is first and foremost a learning project for me to learn more about databas
 ## Usage
 
 1. Install [go](http://golang.org/)
-2. `go get github.com/prettymuchbryce/deltadb`
+2. `cd $GOPATH/src && git clone https://github.com/prettymuchbryce/deltadb && go get ./...`
 3. Configure the `locations` directory in deltad.conf (This is where the data will live)
 4. `make run`
 5. (in a new terminal) `make cli`

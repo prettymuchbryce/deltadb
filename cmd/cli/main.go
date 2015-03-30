@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"strings"
 
-	db "../../src/db"
-	deltadbnet "../../src/net"
 	"github.com/mattn/go-shellwords"
+	db "github.com/prettymuchbryce/deltadb/src/db"
+	deltadbnet "github.com/prettymuchbryce/deltadb/src/net"
 )
 
 const cliSource = "cli"
