@@ -3,6 +3,7 @@ deltadb
 
 > A proof-of-concept time-series database
 
+![delta](https://s3-us-west-1.amazonaws.com/prettymuchbryce/delta.png)
 
 ## What is it ?
 
